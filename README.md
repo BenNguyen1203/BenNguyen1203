@@ -4,7 +4,9 @@
 
 ## 👩‍💻  About Me
 
-<p align="left">I am a data engineer and AI researcher specializing in machine learning, with a focus on Computer Vision and Natural Language Processing. Pursuing an MS in Data Analytics Engineering at Northeastern, I have optimized large-scale data processes and developed predictive models at CoxHealth. Beyond technical work, I lead community initiatives, organizing career conferences and fundraising efforts.<br><br>📚 I'm currently learning Stanford's CS and EE courses focusing on Natural Language Processing and Deep Learning.<br>
+<p align="left">I am a data engineer and AI researcher specializing in machine learning, with a focus on Computer Vision and Natural Language Processing. Pursuing an MS in Data Analytics Engineering at Northeastern, I have optimized large-scale data processes and developed predictive models at CoxHealth. Beyond technical work, I lead community initiatives, organizing career conferences and fundraising efforts.<br>
+<br>📚 I'm currently learning Stanford's CS and EE courses focusing on Natural Language Processing and Deep Learning.<br>
+<br>👨‍💼 Current position: Data Engineer at CoxHealth <br>
 
 <br>
 
