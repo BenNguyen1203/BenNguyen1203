@@ -34,7 +34,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
 
-## 📖 GitHub Repos
-[![Nursing-Homes-Finance-Models](https://img.shields.io/badge/Nursing--Homes--Finance--Models-Repository-blue?logo=github)](https://github.com/BenNguyen1203/Nursing-Homes-Finance-Models) [![GitHub Repo stars](https://img.shields.io/github/stars/BenNguyen1203/Nursing-Homes-Finance-Models?style=social)](https://github.com/BenNguyen1203/Nursing-Homes-Finance-Models/stargazers)
+## 📖 My Knowledge-Hub Repo [![GitHub Repo stars](https://img.shields.io/github/stars/BenNguyen1203/Knowledge-Hub?style=social)](https://github.com/BenNguyen1203/Knowledge-Hub/stargazers)
+### Documenting my learnings from research papers on Machine Learning, Deep Learning, Computer Vision, and Large Language Models, updating monthly with key insights and findings. 🚀
+### [Visit my Knowledge-Hub repo](https://github.com/BenNguyen1203/Knowledge-Hub) and learn with me ✌️👌  
+
 
 
