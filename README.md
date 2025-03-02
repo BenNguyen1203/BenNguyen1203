@@ -6,6 +6,7 @@
 
 <p align="left">I am a data engineer and AI researcher specializing in machine learning, with a focus on Computer Vision and Natural Language Processing. Pursuing an MS in Data Analytics Engineering at Northeastern, I have optimized large-scale data processes and developed predictive models at CoxHealth. Beyond technical work, I lead community initiatives, organizing career conferences and fundraising efforts.<br>
 <br>📚 I'm currently learning Stanford's CS and EE courses focusing on Natural Language Processing and Deep Learning.<br>
+<br>📚 Also I'm collaborating in the HySonLab at University of Alabama at Birmingham working on research papers and conference papers about Computer Vision and Natural Language Processing <br>
 <br>👨‍💼 Current position: Data Engineer at CoxHealth <br>
 
 <br>
@@ -29,7 +30,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+<br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
