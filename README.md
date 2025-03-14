@@ -6,7 +6,7 @@
 
 <p align="left">I am a data engineer and AI researcher specializing in machine learning, with a focus on Computer Vision and Natural Language Processing. Pursuing an MS in Data Analytics Engineering at Northeastern, I have optimized large-scale data processes and developed predictive models at CoxHealth. Beyond technical work, I lead community initiatives, organizing career conferences and fundraising efforts.<br>
 <br>📚 I'm currently learning Stanford's CS and EE courses focusing on Natural Language Processing and Deep Learning.<br>
-<br>📚 Also I'm collaborating in the HySonLab at University of Alabama at Birmingham working on research papers and conference papers about Computer Vision and Natural Language Processing <br>
+<br>📚 Also I'm a Machine Learning Research Intern collaborating in the HySonLab at University of Alabama at Birmingham working on research papers and conference papers about Computer Vision and Natural Language Processing <br>
 <br>👨‍💼 Current position: Data Engineer at CoxHealth <br>
 
 <br>
@@ -34,12 +34,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-
-<br>
-
-## 📖 My Knowledge-Hub Repo [![GitHub Repo stars](https://img.shields.io/github/stars/BenNguyen1203/Knowledge-Hub?style=social)](https://github.com/BenNguyen1203/Knowledge-Hub/stargazers)
-### Documenting my learnings from research papers on Machine Learning, Deep Learning, Computer Vision, and Large Language Models, updating monthly with key insights and findings. 🚀
-### [Visit my Knowledge-Hub repo](https://github.com/BenNguyen1203/Knowledge-Hub) and learn with me ✌️👌  
 
 
 
